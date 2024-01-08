@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Andrei Galca.
-- 👀 I’m an aspiring data analyst looking forward to showcase my skills in the field.
-- 🌱 I’m eager to learn new technologies and currently improving my SQL and Python skills.
+- 👀 I’m very passionate about data analysis and I'm looking forward to showcase my skills in the field.
+- 🌱 I’m eager to learn new technologies every day.
 - 📫 How to reach me: andreigalca16@gmail.com 
 
 <!---
