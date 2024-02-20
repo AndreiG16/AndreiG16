@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Andrei Galca | A Computer Science Major & Data Science Minor who graduated from Lyon College (AR) 🇺🇸.
+- 👋 Hi, I’m Andrei Galca | Aspiring Data Analyst 📊 | SQL, R, Python and Excel
 - 🌱 I’m eager to learn new technologies and improve my knowledge every day.
 - 👀 Also, to mention that I'm trilingual: Spanish 🇪🇸, Romanian 🇷🇴, and English 🏴󠁧󠁢󠁥󠁮󠁧󠁿.
 - 📫 How to reach me: andreigalca16@gmail.com
