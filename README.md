@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Andrei Galca ! | Computer Science Grad & Applied Data Analytics 💻 📊
+- 👋 Hi, I’m Andrei! | Computer Science Grad & Applied Data Analytics 💻 📊
 - 🌱 I’m eager to learn new technologies and improve my knowledge every day.
 - 📫 How to reach me: andreigalca16@gmail.com
 
