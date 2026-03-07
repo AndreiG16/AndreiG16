@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Andrei Galca ! | Computer Science Grad & Final-Year Master’s Student in Applied Data Analytics 💻 📊
+- 👋 Hi, I’m Andrei Galca ! | Computer Science Grad & Applied Data Analytics 💻 📊
 - 🌱 I’m eager to learn new technologies and improve my knowledge every day.
 - 👀 Also, to mention that I'm trilingual: Spanish 🇪🇸, Romanian 🇷🇴, and English 🏴󠁧󠁢󠁥󠁮󠁧󠁿.
 - 📫 How to reach me: andreigalca16@gmail.com
