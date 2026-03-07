@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Andrei! | Bsc in Computer Science & Msc in Applied Data Analytics Grad 💻 📊
+- 👋 Hi, I’m Andrei! | Bsc in Computer Science & Msc in Applied Data Analytics 💻 📊
 - 🌱 I’m eager to learn new technologies and improve my knowledge every day.
 - 📫 How to reach me: andreigalca16@gmail.com
 
