@@ -1,8 +1,33 @@
-- 👋 Hi, I’m Andrei! | Bsc in Computer Science & Msc in Applied Data Analytics 💻 📊
-- 🌱 I’m eager to learn new technologies and improve my knowledge every day.
-- 📫 How to reach me: andreigalca16@gmail.com
+👋 Hi, I’m Andrei!
 
-<!---
-AndreiG16/AndreiG16 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Business Analyst @ HP Inc. | BSc in Computer Science | MSc in Applied Data Analytics
+
+I’m passionate about turning data into business insights and building data-driven solutions. I’m currently expanding my skills in AI, Data Science, and Machine Learning through hands-on projects using Python, SQL, and Power BI.
+
+🚀 Currently Working On
+
+* 📊 Data Analytics projects
+* 🤖 AI & Machine Learning
+* 🐍 Python
+* 🗄️ SQL
+* 📈 Power BI
+
+🛠️ Tech Stack
+
+Languages: Python, SQL
+
+Analytics & BI: Power BI, Excel
+
+Data Science: pandas, NumPy, scikit-learn
+
+Tools: Git, GitHub, Jupyter Notebook
+
+📂 Featured Projects
+
+* Customer Churn Prediction
+* Sales Forecasting
+* Recommendation System
+
+📫 Contact
+
+📧 andreigalca16@gmail.com
