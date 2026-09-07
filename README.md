@@ -1,35 +1,17 @@
-👋 Hi, I’m Andrei!
+# Andrei Galca
 
-Business Analyst @ HP Inc. | BSc in Computer Science | MSc in Applied Data Analytics
+* Business Analyst @ HP Inc. | BSc Computer Science | MSc Applied Data Analytics**  
+  Bucharest, Romania · andreigalca16@gmail.com
 
-I’m passionate about turning data into business insights and building data-driven solutions. 
+---
 
-I’m currently expanding my skills in AI, Data Science, and Machine Learning through hands-on projects using Python, SQL, and Power BI.
+I work at the intersection of business analysis and AI engineering. With five years of experience translating complex business problems into data-driven solutions at HP Inc., I'm now focused on building AI-powered applications — from LLM pipelines to predictive systems — that create measurable business impact.
 
-🚀 Currently Working On
+---
 
-* 📊 Data Analytics projects
-* 🤖 AI & Machine Learning
-* 🐍 Python
-* 🗄️ SQL
-* 📈 Power BI
+## Tech Stack
 
-🛠️ Tech Stack
-
-Languages: Python, SQL
-
-Analytics & BI: Power BI, Excel
-
-Data Science: pandas, NumPy, scikit-learn
-
-Tools: Git, GitHub, Jupyter Notebook
-
-📂 Featured Projects
-
-* Fraud Detection & Risk Prediction System
-* Football Match Outcome Prediction & Analytics Dashboard
-* Movie Recommendation System
-
-📫 Contact
-
-📧 andreigalca16@gmail.com
+* Languages: Python · SQL  
+* AI & LLMs: OpenAI API · LangChain · RAG · Prompt Engineering  
+* Data & Analytics: pandas · NumPy · scikit-learn · Power BI · Excel  
+* Tools: Git · GitHub · Jupyter Notebook · Streamlit  
