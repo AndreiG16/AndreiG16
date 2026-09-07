@@ -5,7 +5,9 @@
 
 ---
 
-I work at the intersection of business analysis and AI engineering. With five years of experience translating complex business problems into data-driven solutions at HP Inc., I'm now focused on building AI-powered applications — from LLM pipelines to predictive systems — that create measurable business impact.
+I work at the intersection of business analysis and AI engineering. With two years and a half of experience translating complex business problems into data-driven solutions.
+
+I'm now focused on building AI-powered applications: from LLM pipelines to predictive systems that create measurable business impact.
 
 ---
 
