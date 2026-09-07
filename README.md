@@ -4,7 +4,7 @@
 
 Business Analyst @ HP Inc. | BSc Computer Science | MSc Applied Data Analytics
 
-Bucharest, Romania &nbsp;·&nbsp; andreigalca16@gmail.com
+Bucharest, Romania
 
 </div>
 
