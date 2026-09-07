@@ -1,7 +1,7 @@
 # Andrei Galca
 
-* Business Analyst @ HP Inc. | BSc Computer Science | MSc Applied Data Analytics**  
-  Bucharest, Romania · andreigalca16@gmail.com
+* Business Analyst @ HP Inc. | BSc Computer Science | MSc Applied Data Analytics  
+* Bucharest, Romania · andreigalca16@gmail.com
 
 ---
 
