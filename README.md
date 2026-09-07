@@ -27,4 +27,4 @@ I work at the intersection of business analysis and AI engineering. With two yea
 
 ## Contact
 
-[andreigalca16@gmail.com](mailto:andreigalca16@gmail.com) &nbsp;·&nbsp; [github.com/AndreiG16](https://github.com/AndreiG16)
+[andreigalca16@gmail.com](mailto:andreigalca16@gmail.com) 
