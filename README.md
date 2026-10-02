@@ -13,9 +13,9 @@ Interested in the intersection of **Tech, Engineering & Finance**
 
 ## 🔧 Tech Stack
 
-**Languages:** Python (Pandas, NumPy, Scikit-learn, XGBoost) · SQL · MySQL · DAX  
-**ML:** Classification · Time Series Forecasting · Anomaly Detection · SHAP  
-**BI & Viz:** Power BI · Matplotlib · Seaborn  
-**Tools:** FastAPI · Git · Apache Spark  
+**Languages & Libraries:** Python (Pandas, NumPy, Scikit-learn, XGBoost, LightGBM, imbalanced-learn)  
+**ML:** Classification · Imbalanced Data · Time-Series Validation · SHAP Explainability · NLP Sentiment (VADER, Transformers)  
+**Viz:** Matplotlib · Seaborn  
+**Deployment & Tools:** FastAPI · Streamlit · Git
 
 ---
