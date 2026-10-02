@@ -3,7 +3,7 @@
 # Andrei Galca
 
 **Business Analyst @ HP Inc.**  
-BSc Computer Science & Data Science · MSc Applied Data Analytics (in progress)
+BSc Computer Science & Data Science · MSc Applied Data Analytics
 
 Interested in the intersection of **Tech, Engineering & Finance**
 
