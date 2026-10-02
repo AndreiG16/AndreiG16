@@ -17,6 +17,5 @@ Interested in the intersection of **Tech, Engineering & Finance**
 **ML:** Classification · Time Series Forecasting · Anomaly Detection · SHAP  
 **BI & Viz:** Power BI · Matplotlib · Seaborn  
 **Tools:** FastAPI · Git · Apache Spark  
-**Domain:** Financial Services · Fraud Detection · Credit Risk
 
 ---
